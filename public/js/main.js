@@ -1,0 +1,1 @@
+﻿$(".bcmLpL").click(function () { var arrow = $("#arrow").html(); if (arrow == '<i class="fas fa-chevron-up j7paq8-6 kMJGe"></i>') { $("#arrow").html( '<i class="fas fa-chevron-down j7paq8-6 kMJGe"></i>' ); } else { $("#arrow").html('<i class="fas fa-chevron-up j7paq8-6 kMJGe"></i>'); } $(".YXWEg").toggleClass("active"); });
